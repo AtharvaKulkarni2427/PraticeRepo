@@ -1,0 +1,7 @@
+echo "# PraticeRepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:AtharvaKulkarni2427/PraticeRepo.git
+git push -u origin main
